@@ -13,3 +13,27 @@ I am DanKe(@DanKE123abc), a student from China.
 主要写C#/Python，其他语言例如C/Java/JavaScript/TypeScript/Html什么的也会一点，掌握多种语言的HelloWorld输出，会多种大型软件的安装与卸载！
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanKE123abc)](https://danke-cn.eu.org)
+
+# 🔥My Open Source Project
+
+## 主线项目
+
+* DanKeTools
+
+* CheckinHelper系列
+
+* WechatPush
+
+## 支线项目
+
+* VtuberMonitor
+
+* DanKeTools-Godot3
+
+* JoystickSE
+
+* WearFlashlight
+
+* UnityBiliLive[未公开]
+
+* KodaLang[未公开]
