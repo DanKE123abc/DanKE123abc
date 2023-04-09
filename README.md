@@ -20,9 +20,9 @@ I am DanKe(@DanKE123abc), a student from China.
 
 * DanKeTools
 
-* CheckinHelper系列
+* CheckinHelper系列*
 
-* WechatPush
+* WechatPush*
 
 ### 支线项目
 
@@ -32,8 +32,10 @@ I am DanKe(@DanKE123abc), a student from China.
 
 * JoystickSE
 
-* WearFlashlight
+* WearFlashlight*
 
 * UnityBiliLive[未公开]
 
 * KodaLang[未公开]
+
+[标 * 为已经或有意愿暂停维护的项目]
