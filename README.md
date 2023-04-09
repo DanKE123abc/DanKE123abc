@@ -20,7 +20,7 @@ I am DanKe(@DanKE123abc), a student from China.
 
 * DanKeTools
 
-* CheckinHelper系列*
+* CheckinHelper系列
 
 * WechatPush*
 
