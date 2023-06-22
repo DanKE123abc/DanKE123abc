@@ -14,28 +14,4 @@ I am DanKe(@DanKE123abc), a student from China.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanKE123abc)](https://danke-cn.eu.org)
 
-## 🔥My Open Source Project
-
-### 主线项目
-
-* DanKeTools
-
-* CheckinHelper系列
-
-* WechatPush*
-
-### 支线项目
-
-* VtuberMonitor
-
-* DanKeTools-Godot3
-
-* JoystickSE
-
-* WearFlashlight*
-
-* UnityBiliLive[未公开]
-
-* KodaLang[未公开]
-
-###### [标 * 为已经或有意愿暂停维护的项目]
+[🔥My Open Source Project](https://github.com/DanKE123abc/DanKE123abc/blob/main/MOSP.md)
