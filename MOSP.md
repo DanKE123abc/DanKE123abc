@@ -10,6 +10,8 @@
 
 ### 支线项目
 
+* AIBox
+
 * VtuberMonitor
 
 * CheckinHelper系列
