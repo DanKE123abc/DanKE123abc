@@ -2,9 +2,9 @@
 
 ### 主线项目
 
-* DewityKit
+* [DewityKit](https://github.com/DanKE123abc/DewityKit)  —— Unity开发框架
 
-* GazaStoryEditor
+* [GazaStoryEditor](https://github.com/DanKE123abc/GazaStoryEditor) —— Unity可视化剧本编辑器
 
 * DanKeTools*
 
