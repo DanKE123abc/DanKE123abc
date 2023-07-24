@@ -20,6 +20,8 @@
 
 * [CheckinHelper系列](https://github.com/stars/DanKE123abc/lists/checkinhelper) —— 自动签到脚本（部分云游戏自动签到脚本不玩了，暂时弃坑）
 
+* [JoystickSE](https://github.com/DanKE123abc/JoystickSE) —— Unity虚拟摇杆插件
+
 
 
 ### 弃坑项目
@@ -31,8 +33,6 @@
 * [WechatPush](https://github.com/DanKE123abc/WechatPush) —— 微信测试号库（我觉得现在已经没什么要改的了，只要微信不改接口可以再用500年）
 
 * [DanKeTools-Godot3](https://github.com/DanKE123abc/DanKeTools-Godot3) —— Godot3.x开发框架
-
-* [JoystickSE](https://github.com/DanKE123abc/JoystickSE) —— Unity虚拟摇杆插件
 
 * [WearFlashlight](https://github.com/DanKE123abc/WearFlashlight) —— 安卓手表手电筒（换手表了，弃坑）
 
