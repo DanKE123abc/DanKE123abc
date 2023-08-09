@@ -18,7 +18,7 @@
 
 * [VtuberMonitor](https://github.com/DanKE123abc/VtuberMonitor) —— 网页B站虚拟主播监控室
 
-* [CheckinHelper系列](https://github.com/stars/DanKE123abc/lists/checkinhelper) —— 自动签到脚本（部分云游戏自动签到脚本不玩了，暂时弃坑）
+* [CheckinHelper系列](https://github.com/stars/DanKE123abc/lists/checkinhelper) —— 自动签到脚本（患电子ED，暂时弃坑）
 
 * [JoystickSE](https://github.com/DanKE123abc/JoystickSE) —— Unity虚拟摇杆插件
 
