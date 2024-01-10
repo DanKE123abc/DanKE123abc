@@ -6,6 +6,8 @@ I am DanKe(@DanKE123abc), a student from China.
 
 这里是蛋壳，闲着没事什么都干的高中生。
 
+开源项目不是商业项目，我爱更就更，不是你们的售后，也不是你们的乙方！
+
 联系我：
 
 邮件: danke1024@foxmail.com
