@@ -4,11 +4,15 @@
 
 ###### [主要维护的项目]
 
-* [DewityKit](https://github.com/DanKE123abc/)  —— Unity开发框架（没写完，先不公开）
+* [DewityX](https://github.com/DanKE123abc/)  —— Unity开发框架（没写完，先不公开）
 
 * [GazaStoryEditor](https://github.com/DanKE123abc/GazaStoryEditor) —— Unity可视化剧本编辑器
 
 * [DanKeJson](https://github.com/DanKE123abc/DanKeJson) —— .Net上一个小巧的Json解析库
+
+* [HiPcMijia](https://github.com/DanKE123abc/HiPcMijia) —— 把电脑接入米家互联
+
+* [NoUnityCN](https://github.com/DanKE123abc/NoUnityCN) —— Unity国际版下载站
 
 ### 支线项目
 
