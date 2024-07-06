@@ -4,13 +4,13 @@
 
 ###### [主要维护的项目]
 
+* [Hypora](https://github.com/DanKE123abc/Hypora) —— 你的下一款Markdown文本编辑器
+  
+* [DanKeJson](https://github.com/DanKE123abc/DanKeJson) —— .Net上一个小巧的Json解析库
+
 * [DewityX](https://github.com/DanKE123abc/)  —— Unity开发框架（没写完，先不公开）
 
 * [GazaStoryEditor](https://github.com/DanKE123abc/GazaStoryEditor) —— Unity可视化剧本编辑器
-
-* [DanKeJson](https://github.com/DanKE123abc/DanKeJson) —— .Net上一个小巧的Json解析库
-
-* [HiPcMijia](https://github.com/DanKE123abc/HiPcMijia) —— 把电脑接入米家互联
 
 * [NoUnityCN](https://github.com/DanKE123abc/NoUnityCN) —— Unity国际版下载站
 
@@ -25,6 +25,12 @@
 * [VtuberMonitor](https://github.com/DanKE123abc/VtuberMonitor) —— 网页B站虚拟主播监控室
 
 * [JoystickSE](https://github.com/DanKE123abc/JoystickSE) —— Unity虚拟摇杆插件
+
+* [HiPcMijia](https://github.com/DanKE123abc/HiPcMijia) —— 把电脑接入米家互联
+
+* [Steam-Preferences-Fixer](https://github.com/DanKE123abc/Steam-Preferences-Fixer) —— 篡改猴脚本，修复国区stram的偏好设置部分内容选项不可见
+
+* [Github-Chinese-Search-Purification](https://github.com/DanKE123abc/Github-Chinese-Search-Purification) —— 篡改猴脚本，Github中文搜索净化，屏蔽特定用户群
 
 ### 弃坑项目
 
