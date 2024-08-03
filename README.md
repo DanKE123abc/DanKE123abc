@@ -8,12 +8,6 @@ I am DanKe(@DanKE123abc), a student from China.
 
 如果你喜欢我的开源项目，欢迎捐赠支持！[爱发电](https://afdian.net/a/eggdk)
 
-开源项目不是商业项目，我爱更就更，不是你们的售后，也不是你们的乙方！
-
-使用开源作品要遵守协议，如果你看不懂开源协议，可以看中文版的开源协议！
-
-[Apache License2.0](https://github.com/DanKE123abc/DanKE123abc/blob/main/%5B%E4%B8%AD%5D%20Apache%20License2.0.txt) [MIT License](https://github.com/DanKE123abc/DanKE123abc/blob/main/%5B%E4%B8%AD%5D%20MIT%20License.txt)
-
 【联系我】邮件: danke1024@foxmail.com | 微信公众号：[蛋壳的窝] | 微信: ycdk07 | QQ: 1586017466
 
 
