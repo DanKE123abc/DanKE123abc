@@ -8,7 +8,7 @@ I am DanKe(@DanKE123abc), a student from China.
 
 如果你喜欢我的开源项目，欢迎捐赠支持！[爱发电](https://afdian.net/a/eggdk)
 
-【联系我】邮件: danke1024@foxmail.com | 微信公众号：[蛋壳的窝] | 微信: ycdk07 | QQ: 1586017466
+联系我：邮件: danke1024@foxmail.com
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanKE123abc)](https://danke-cn.eu.org)
