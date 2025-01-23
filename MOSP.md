@@ -14,7 +14,7 @@
 
 ###### [由兴趣或者突发奇想诞生的项目]
 
-* [Hypora](https://github.com/DanKE123abc/Hypora) —— 你的下一款Markdown文本编辑器
+* [Hypora](https://github.com/DanKE123abc/Hypora) —— 模仿Typora的Markdown文本编辑器
 
 * [UFilesCopy](https://github.com/DanKE123abc/UFilesCopy) —— 一个为了在学校方便拷贝课件的软件，随手开源了
 
