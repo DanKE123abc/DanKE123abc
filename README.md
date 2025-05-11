@@ -2,4 +2,4 @@
 
 ✨🌈
 
-C# | Python | TypeScript | JavaScript | Java
+C# | Python | TypeScript | JavaScript | Java | llm🤖
