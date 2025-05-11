@@ -1,5 +1,7 @@
-## 🌟(ૢ˃ꌂ˂⁎) Hello!!!!!!!!!!!
+## 🌟Ciallo～(∠・ω< )⌒☆ !!!!!
 
-✨🌈
+✨💤
 
-C# | Python | TypeScript | JavaScript | Java | llm🤖
+C# | Python | TypeScript | JavaScript | Java | llm
+
+👆🤓
