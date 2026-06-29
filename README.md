@@ -1,6 +1,6 @@
 ## 🌟Ciallo～(∠・ω< )⌒☆ !!!!!
 
-✨💤
+✨💤 [![GitHub Roast 评分徽章](https://githubroast.dev/api/badge/DanKE123abc)](https://githubroast.dev/u/DanKE123abc)
 
 C# | Python | TypeScript | JavaScript | Java | llm
 
